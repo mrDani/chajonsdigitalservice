@@ -1,0 +1,30 @@
+body{
+	background:whitesmoke; 
+	color: darkblue;
+	font-family: serif;
+	font-weight: normal;
+	line-height: 1.6em;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+#client{
+	border-style: outset;
+}
+.info.ul.li{
+	color: white;
+}
+.Box1{
+	transition: background-color 1s linear;
+}
+
+.Box1:hover{
+	background: #000000;
+	height: 50px;
+}
+.system{
+	height: 30%;
+	width: 60;
+}
